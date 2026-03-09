@@ -1,0 +1,18 @@
+# Environment variables
+.env
+
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# Vector DB storage
+vectordb/
+
+# Node
+node_modules/
+dist/
+
+# IDE
+.vscode/
+.idea/
